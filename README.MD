@@ -78,3 +78,18 @@ Texte entré et recherche soumise.
 Fermeture du navigateur.
 ```
 Le navigateur s'ouvrira, effectuera la recherche, puis se fermera automatiquement.
+
+### 📚 Ressources
+
+Documentation officielle de Selenium
+Télécharger ChromeDriver
+Guide d'installation de Python
+
+### 🤝 Contribuer
+Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à créer une pull request.
+
+### 📄 Licence
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE](https://github.com/akamidev/Selenium/blob/main/LICENSE) pour plus de détails.
+
+### ✨ Auteur
+AKAMI Mehdi - [Portfolio](https://akamimehdi.netlify.app/)

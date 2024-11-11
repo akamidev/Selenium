@@ -81,9 +81,9 @@ Le navigateur s'ouvrira, effectuera la recherche, puis se fermera automatiquemen
 
 ### 📚 Ressources
 
-Documentation officielle de Selenium
-Télécharger ChromeDriver
-Guide d'installation de Python
+[Documentation officielle de Selenium](https://www.selenium.dev/)
+[Télécharger ChromeDriver](https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/win64/chromedriver-win64.zip)
+[Guide d'installation de Python](https://docs.python.org/fr/3/using/)
 
 ### 🤝 Contribuer
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à créer une pull request.

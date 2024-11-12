@@ -24,7 +24,6 @@ Ce projet utilise **Selenium** pour automatiser une recherche Google en utilisan
 - **Python 3.12** installé sur votre machine.
 - **ChromeDriver** compatible avec votre version de Chrome (dans ce projet, la version utilisée est `130.0.6723.116`).
 - Navigateur **Google Chrome** installé (version `130.0.6723.117`).
-- Compte GitHub pour partager le projet.
 
 ---
 
